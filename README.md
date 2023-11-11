@@ -1,6 +1,9 @@
 **암호 손동작 설정(set_motion.py, RunSetMotion.java)**
+<p align="center">
+  <img src="https://github.com/seungtoctoc/HandMotionPassword/assets/102455571/db67d573-1f5a-4ba3-bd8b-e2c3142c9687">
+</p>
+
 - 웹캠으로부터 손동작 정보 수집
-- seq_length단위로 데이터 저장
 - 파라미터로 받은 docName과 action을 이용해 파일 저장
 - RunSetMotion.java : 스프링 환경에서 set_motion.py 실행<br><br>
 
