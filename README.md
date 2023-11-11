@@ -1,5 +1,5 @@
 **암호 손동작 설정(set_motion.py, RunSetMotion.java)**
-<p align="center">
+<p align="left">
   <img src="https://github.com/seungtoctoc/HandMotionPassword/assets/102455571/db67d573-1f5a-4ba3-bd8b-e2c3142c9687">
 </p>
 
